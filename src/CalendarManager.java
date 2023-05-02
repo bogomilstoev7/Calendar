@@ -69,6 +69,7 @@ public class CalendarManager {
             }
         }
     }
+    
 
     public void book() throws CustomException {
         if (!isCurrentFileOpened()) {
